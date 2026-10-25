@@ -55,6 +55,7 @@
             ]
           },
           "configurations": {
+            "optimization":false,
             "production": {
               "budgets": [
                 {

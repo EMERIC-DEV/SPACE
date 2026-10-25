@@ -56,6 +56,9 @@
           },
           "configurations": {
             "production": {
+              "scripts": true,
+              "styles": true,
+              "fonts":false,
               "budgets": [
                 {
                   "type": "initial",
